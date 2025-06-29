@@ -12,4 +12,4 @@ Finalised codes for displacement-time analysis for estimating the Settlement Fau
 
 If you use this repository, please reference the manuscript below:
 
-Williams JN, Stirling MW, Barrell DJA, Niroula G, Wavelet, E: Insights into temporal earthquake clustering from the Settlement Fault, southeastern Otago, Aotearoa New Zealand (2025, accepted). New Zealand Journal of Geology and Geophysics
+Williams, J.N., Stirling, M.W., Barrell, D.J., Niroula, G. and Wavelet, E., 2025. Insights into temporal earthquake clustering from the Settlement Fault, southeastern Otago, Aotearoa New Zealand. New Zealand Journal of Geology and Geophysics, pp.1-26. https://doi.org/10.1080/00288306.2025.2455076
